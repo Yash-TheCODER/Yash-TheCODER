@@ -1,6 +1,6 @@
 -                                                          👋 Hi, I’m Yash
 - 👀 I’m Interested in Learning....
-- 🌱 I’m currently learning DSA, HTML, CSS, JAVA.
+- 🌱 I’m currently learning DSA, HTML, CSS, JAVA, JAVASCRIPT.
 - 💞️ I’m looking to collaborate on Projects On Coding
 
 <!---
