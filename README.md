@@ -1,4 +1,4 @@
-![logo](https://github.com/Yash-TheCODER/Yash-TheCODER/blob/main/Github_banner.png)
+![logo](https://github.com/Yash-TheCODER/Yash-TheCODER/blob/main/Github_Banner.png)
 <h1 align="center">Hi 👋, I'm Yash Kumar Rastogi</h1>
 <h3 align="center">A passionate Web Developer from India 
     <img 
